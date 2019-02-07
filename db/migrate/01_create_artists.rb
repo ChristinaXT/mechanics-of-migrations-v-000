@@ -27,3 +27,4 @@ ActiveRecord::Base.connection.execute(sql)
       t.string :hometown
     end
   end
+end
