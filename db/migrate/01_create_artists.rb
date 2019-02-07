@@ -6,4 +6,5 @@ class CreateArtists < ActiveRecord::Migration
   :adapter => "sqlite3",
   :database => "db/artists.sqlite"
 )
+
 end
